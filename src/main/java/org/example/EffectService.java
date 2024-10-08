@@ -1,4 +1,4 @@
-package vecka1;
+package org.example;
 import java.util.ArrayList;
 
 

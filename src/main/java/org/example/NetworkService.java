@@ -1,4 +1,4 @@
-package vecka1;
+package org.example;
 
 // public så att alla kan nå klassen
 public class NetworkService {
